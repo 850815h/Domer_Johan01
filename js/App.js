@@ -1,3 +1,5 @@
+//testar nytt
+
 class App extends Domer {
     inputText = '';
     johan = new Person('Johan');
