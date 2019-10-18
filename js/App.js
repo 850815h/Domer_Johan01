@@ -1,6 +1,7 @@
 //testar nytt
 //redigerade med GitHub
 //från gitKraken
+//testa git i code
 
 class App extends Domer {
     inputText = '';
