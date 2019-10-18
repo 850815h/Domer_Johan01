@@ -1,4 +1,5 @@
 //testar nytt
+//redigerade med GitHub
 
 class App extends Domer {
     inputText = '';
